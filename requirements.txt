@@ -1,0 +1,9 @@
+langchain
+deeplake
+openai
+tiktoken
+elevenlabs
+streamlit
+beautifulsoup4
+audio-recorder-streamlit
+streamlit-chat
